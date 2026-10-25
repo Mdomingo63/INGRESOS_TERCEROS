@@ -130,6 +130,10 @@ class UnificadorDGIIApp(QWidget):
             "ITBIS_FACTURADO": "ITBIS",
         })
 
+        # Nueva columna AÑO (después de RNC) con los 4 primeros dígitos de PERIODO (AAAAMM)
+        anio = df_consolidado["PERIODO"].astype(str).str[:4].astype(int)
+        df_consolidado.insert(1, "AÑO", anio)
+
         # Guardar archivo consolidado
         output_path = os.path.join(OUTPUT_FOLDER, OUTPUT_FILE_NAME)
         try:
@@ -149,7 +153,7 @@ class UnificadorDGIIApp(QWidget):
 
                 # Anchos de columna y formato numérico
                 columnas_numericas = ["MONTO_FACTURADO", "ITBIS_RETENIDO", "ITBIS"]
-                anchos = {"RNC": 20, "PERIODO": 16, "NCF": 24, "FECHA": 18}
+                anchos = {"RNC": 20, "AÑO": 12, "PERIODO": 16, "NCF": 24, "FECHA": 18}
                 for col_idx, nombre in enumerate(df_consolidado.columns, 1):
                     letra = ws.cell(row=1, column=col_idx).column_letter
                     if nombre in columnas_numericas:
@@ -159,8 +163,8 @@ class UnificadorDGIIApp(QWidget):
                     else:
                         ws.column_dimensions[letra].width = anchos.get(nombre, 20)
 
-                # Primeras tres columnas alineadas a la izquierda desde la fila 2
-                for col_idx in range(1, 4):
+                # RNC, AÑO, PERIODO y NCF alineadas a la izquierda desde la fila 2
+                for col_idx in range(1, 5):
                     for fila in range(2, ws.max_row + 1):
                         ws.cell(row=fila, column=col_idx).alignment = Alignment(horizontal="left")
 
