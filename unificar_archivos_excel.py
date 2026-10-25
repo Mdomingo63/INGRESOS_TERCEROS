@@ -1,6 +1,7 @@
 import os
 import sys
 import pandas as pd
+from openpyxl.styles import Alignment, Font, PatternFill
 from PySide6.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QPushButton, 
     QTextEdit, QLabel, QProgressBar, QMessageBox
@@ -10,6 +11,7 @@ from PySide6.QtCore import Qt
 
 # Ruta especificada
 FOLDER_PATH = r"C:/Users/Domingo Sánchez/Escritorio/DOCUMENTOS TRABAJOS/CONTABILIDAD/DATOS EDISON/INGRESOS_TERCEROS"
+OUTPUT_FOLDER = r"C:/Users/Domingo Sánchez/Escritorio/DOCUMENTOS TRABAJOS/CONTABILIDAD/DATOS EDISON"
 OUTPUT_FILE_NAME = "RESUMEN_TERCERO_DGII_EDISON.xlsx"
 
 class UnificadorDGIIApp(QWidget):
@@ -128,19 +130,33 @@ class UnificadorDGIIApp(QWidget):
         })
 
         # Guardar archivo consolidado
-        output_path = os.path.join(FOLDER_PATH, OUTPUT_FILE_NAME)
+        output_path = os.path.join(OUTPUT_FOLDER, OUTPUT_FILE_NAME)
         try:
             with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
                 df_consolidado.to_excel(writer, index=False, sheet_name="RESUMEN_TERCEROS")
 
-                # Formato numérico en MONTO_FACTURADO, ITBIS_RETENIDO e ITBIS
                 ws = writer.sheets["RESUMEN_TERCEROS"]
+
+                # Encabezado con color
+                relleno = PatternFill("solid", start_color="1F4E78", end_color="1F4E78")
+                fuente = Font(name="Segoe UI", bold=True, color="FFFFFF", size=11)
+                for celda in ws[1]:
+                    celda.fill = relleno
+                    celda.font = fuente
+                    celda.alignment = Alignment(horizontal="center", vertical="center")
+                ws.row_dimensions[1].height = 24
+
+                # Anchos de columna y formato numérico
                 columnas_numericas = ["MONTO_FACTURADO", "ITBIS_RETENIDO", "ITBIS"]
+                anchos = {"RNC": 20, "PERIODO": 16, "NCF": 24, "FECHA": 18}
                 for col_idx, nombre in enumerate(df_consolidado.columns, 1):
+                    letra = ws.cell(row=1, column=col_idx).column_letter
                     if nombre in columnas_numericas:
                         for fila in range(2, ws.max_row + 1):
                             ws.cell(row=fila, column=col_idx).number_format = "#,##0.00"
-                        ws.column_dimensions[ws.cell(row=1, column=col_idx).column_letter].width = 18
+                        ws.column_dimensions[letra].width = 24
+                    else:
+                        ws.column_dimensions[letra].width = anchos.get(nombre, 20)
 
             self.log(f"\n🎉 ¡Proceso completado exitosamente!")
             self.log(f"📊 Total de registros consolidados: {len(df_consolidado)}")
