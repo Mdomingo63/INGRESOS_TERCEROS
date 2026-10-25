@@ -2,6 +2,7 @@ import os
 import sys
 import pandas as pd
 from openpyxl.styles import Alignment, Font, PatternFill
+from openpyxl.worksheet.table import Table, TableStyleInfo
 from PySide6.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QPushButton, 
     QTextEdit, QLabel, QProgressBar, QMessageBox
@@ -157,6 +158,20 @@ class UnificadorDGIIApp(QWidget):
                         ws.column_dimensions[letra].width = 24
                     else:
                         ws.column_dimensions[letra].width = anchos.get(nombre, 20)
+
+                # Primeras tres columnas alineadas a la izquierda desde la fila 2
+                for col_idx in range(1, 4):
+                    for fila in range(2, ws.max_row + 1):
+                        ws.cell(row=fila, column=col_idx).alignment = Alignment(horizontal="left")
+
+                # Formato de tabla de Excel sobre los datos
+                ultima_col = ws.cell(row=1, column=ws.max_column).column_letter
+                tabla = Table(displayName="ResumenTerceros", ref=f"A1:{ultima_col}{ws.max_row}")
+                tabla.tableStyleInfo = TableStyleInfo(
+                    name="TableStyleMedium2", showRowStripes=True,
+                    showFirstColumn=False, showLastColumn=False, showColumnStripes=False,
+                )
+                ws.add_table(tabla)
 
             self.log(f"\n🎉 ¡Proceso completado exitosamente!")
             self.log(f"📊 Total de registros consolidados: {len(df_consolidado)}")
