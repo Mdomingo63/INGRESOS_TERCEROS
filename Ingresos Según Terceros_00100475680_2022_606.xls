@@ -1,0 +1,131 @@
+<style> .textmode{mso-number-format:\@;}</style><div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr style="color:White;background-color:#5EB645;">
+			<th scope="col">RNC_CEDULA_NCF</th><th scope="col">NOMBRE</th><th scope="col">ANOFISCAL</th><th scope="col">PERIODO</th><th scope="col">NUMERO_NCF</th><th scope="col">FECHA_COMPROBANTE</th><th scope="col">TIPO_NCF</th><th scope="col">TIPO_COSTO_GASTO</th><th scope="col">MONTO_FACTURADO</th><th scope="col">ITBIS_RETENIDO</th><th scope="col">ITBIS_FACTURADO</th>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202201</td><td class="textmode">B0100000240</td><td class="textmode">01/06/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">14000</td><td class="textmode">&nbsp;</td><td class="textmode">2520</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202201</td><td class="textmode">B0100000239</td><td class="textmode">01/04/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">7796.60</td><td class="textmode">&nbsp;</td><td class="textmode">1403.39</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202201</td><td class="textmode">B0100000238</td><td class="textmode">01/03/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">9950</td><td class="textmode">&nbsp;</td><td class="textmode">1791</td>
+		</tr><tr>
+			<td class="textmode">130308314</td><td class="textmode">HM &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202201</td><td class="textmode">B0100000244</td><td class="textmode">01/28/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">7500</td><td class="textmode">0</td><td class="textmode">1350</td>
+		</tr><tr>
+			<td class="textmode">101884916</td><td class="textmode">INVERSIONES LUZA S R L</td><td class="textmode">2022</td><td class="textmode">202201</td><td class="textmode">B0100000242</td><td class="textmode">01/13/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">9500</td><td class="textmode">1710</td><td class="textmode">1710</td>
+		</tr><tr>
+			<td class="textmode">130258988</td><td class="textmode">LASER CENTER S A</td><td class="textmode">2022</td><td class="textmode">202201</td><td class="textmode">B0100000241</td><td class="textmode">01/18/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">9750</td><td class="textmode">&nbsp;</td><td class="textmode">1755</td>
+		</tr><tr>
+			<td class="textmode">130258988</td><td class="textmode">LASER CENTER S A</td><td class="textmode">2022</td><td class="textmode">202201</td><td class="textmode">B0100000243</td><td class="textmode">01/18/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">2500</td><td class="textmode">&nbsp;</td><td class="textmode">450</td>
+		</tr><tr>
+			<td class="textmode">132285395</td><td class="textmode">MICHA CLOUD TECHNOLOGY SRL</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000260</td><td class="textmode">02/28/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">4</td><td class="textmode">4400</td><td class="textmode">&nbsp;</td><td class="textmode">792</td>
+		</tr><tr>
+			<td class="textmode">401510121</td><td class="textmode">ASOCIACION CENTRO LASER</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000245</td><td class="textmode">02/01/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">3700</td><td class="textmode">&nbsp;</td><td class="textmode">666</td>
+		</tr><tr>
+			<td class="textmode">401510121</td><td class="textmode">ASOCIACION CENTRO LASER</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000246</td><td class="textmode">02/03/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">37050</td><td class="textmode">&nbsp;</td><td class="textmode">6669</td>
+		</tr><tr>
+			<td class="textmode">130873763</td><td class="textmode">PROMO GALLERY PUBLICIDAD SRL</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000252</td><td class="textmode">02/10/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">1900</td><td class="textmode">&nbsp;</td><td class="textmode">342</td>
+		</tr><tr>
+			<td class="textmode">123002564</td><td class="textmode">COPIADORAS EL MUNDO SRL</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000255</td><td class="textmode">02/22/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">26000</td><td class="textmode">&nbsp;</td><td class="textmode">4680</td>
+		</tr><tr>
+			<td class="textmode">05400602289</td><td class="textmode">FARELYS ESPERANZA OVALLES TINEO</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000251</td><td class="textmode">02/09/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">25000</td><td class="textmode">&nbsp;</td><td class="textmode">4500</td>
+		</tr><tr>
+			<td class="textmode">101835001</td><td class="textmode">DE LEON &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000248</td><td class="textmode">02/04/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">9000</td><td class="textmode">&nbsp;</td><td class="textmode">1620</td>
+		</tr><tr>
+			<td class="textmode">101835001</td><td class="textmode">DE LEON &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000253</td><td class="textmode">02/11/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">25500</td><td class="textmode">&nbsp;</td><td class="textmode">4590</td>
+		</tr><tr>
+			<td class="textmode">101835001</td><td class="textmode">DE LEON &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000257</td><td class="textmode">02/24/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">10000</td><td class="textmode">&nbsp;</td><td class="textmode">1800</td>
+		</tr><tr>
+			<td class="textmode">101868491</td><td class="textmode">SOLUCIONES DE OFICINA DIAZ SRL</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000242</td><td class="textmode">02/19/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">3000</td><td class="textmode">0</td><td class="textmode">540</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000254</td><td class="textmode">02/22/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">8135.60</td><td class="textmode">&nbsp;</td><td class="textmode">1464.41</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000256</td><td class="textmode">02/24/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">21750</td><td class="textmode">&nbsp;</td><td class="textmode">3915</td>
+		</tr><tr>
+			<td class="textmode">130053911</td><td class="textmode">VICTORIA YEB S A</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000259</td><td class="textmode">02/26/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">27000</td><td class="textmode">&nbsp;</td><td class="textmode">4860</td>
+		</tr><tr>
+			<td class="textmode">101534402</td><td class="textmode">COMPRESORES EQUIPOS E INGENIERIA SAS</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000258</td><td class="textmode">02/24/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">17500</td><td class="textmode">0</td><td class="textmode">3150</td>
+		</tr><tr>
+			<td class="textmode">101534402</td><td class="textmode">COMPRESORES EQUIPOS E INGENIERIA SAS</td><td class="textmode">2022</td><td class="textmode">202202</td><td class="textmode">B0100000250</td><td class="textmode">02/08/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">1</td><td class="textmode">22500</td><td class="textmode">0</td><td class="textmode">4050</td>
+		</tr><tr>
+			<td class="textmode">130156751</td><td class="textmode">AUTO VIDRIOS LINCOLN S R L</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000270</td><td class="textmode">03/12/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">12000</td><td class="textmode">&nbsp;</td><td class="textmode">2160</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000264</td><td class="textmode">03/03/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">4500</td><td class="textmode">&nbsp;</td><td class="textmode">810</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000269</td><td class="textmode">03/12/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">12500</td><td class="textmode">&nbsp;</td><td class="textmode">2250</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000273</td><td class="textmode">03/17/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">12000</td><td class="textmode">&nbsp;</td><td class="textmode">2160</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000272</td><td class="textmode">03/17/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">27500</td><td class="textmode">&nbsp;</td><td class="textmode">4950</td>
+		</tr><tr>
+			<td class="textmode">130680493</td><td class="textmode">CORPORACION COPYCORP RD S A</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000261</td><td class="textmode">03/01/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">8400</td><td class="textmode">0</td><td class="textmode">1512</td>
+		</tr><tr>
+			<td class="textmode">130308314</td><td class="textmode">HM &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000274</td><td class="textmode">03/25/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">2500</td><td class="textmode">0</td><td class="textmode">450</td>
+		</tr><tr>
+			<td class="textmode">101541806</td><td class="textmode">LABORATORIOS SINTESIS SRL</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000263</td><td class="textmode">03/09/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">9300</td><td class="textmode">1674</td><td class="textmode">1674</td>
+		</tr><tr>
+			<td class="textmode">101541806</td><td class="textmode">LABORATORIOS SINTESIS SRL</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000266</td><td class="textmode">03/09/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">150000</td><td class="textmode">&nbsp;</td><td class="textmode">27000</td>
+		</tr><tr>
+			<td class="textmode">131495532</td><td class="textmode">CENTRO DE COPIAS LA ZONA SRL</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000268</td><td class="textmode">03/12/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">59322.04</td><td class="textmode">&nbsp;</td><td class="textmode">10677.97</td>
+		</tr><tr>
+			<td class="textmode">130053911</td><td class="textmode">VICTORIA YEB S A</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000265</td><td class="textmode">03/07/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">3000</td><td class="textmode">540</td><td class="textmode">540</td>
+		</tr><tr>
+			<td class="textmode">101738375</td><td class="textmode">WILSON J REYES &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000262</td><td class="textmode">03/02/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">10</td><td class="textmode">80000</td><td class="textmode">&nbsp;</td><td class="textmode">14400</td>
+		</tr><tr>
+			<td class="textmode">101752238</td><td class="textmode">INMOBILIARIA GERARDINO SRL</td><td class="textmode">2022</td><td class="textmode">202203</td><td class="textmode">B0100000247</td><td class="textmode">03/03/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">4</td><td class="textmode">13900</td><td class="textmode">2502</td><td class="textmode">2502</td>
+		</tr><tr>
+			<td class="textmode">132030184</td><td class="textmode">ILTEKA COMPANY SRL</td><td class="textmode">2022</td><td class="textmode">202204</td><td class="textmode">B0100000279</td><td class="textmode">04/26/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">3600</td><td class="textmode">648</td><td class="textmode">648</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202204</td><td class="textmode">B0100000277</td><td class="textmode">04/21/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">12200</td><td class="textmode">&nbsp;</td><td class="textmode">2196</td>
+		</tr><tr>
+			<td class="textmode">130715132</td><td class="textmode">FACIRENT DOMINICANA EIRL</td><td class="textmode">2022</td><td class="textmode">202205</td><td class="textmode">B0100000284</td><td class="textmode">05/24/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">6900</td><td class="textmode">&nbsp;</td><td class="textmode">1242</td>
+		</tr><tr>
+			<td class="textmode">130043851</td><td class="textmode">EMPOWER HR SRL</td><td class="textmode">2022</td><td class="textmode">202205</td><td class="textmode">B0100000282</td><td class="textmode">05/10/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">4</td><td class="textmode">11800</td><td class="textmode">0</td><td class="textmode">2124</td>
+		</tr><tr>
+			<td class="textmode">131828132</td><td class="textmode">DISTRIBUIDORA HUED SRL</td><td class="textmode">2022</td><td class="textmode">202205</td><td class="textmode">B0100000286</td><td class="textmode">05/26/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">55860</td><td class="textmode">&nbsp;</td><td class="textmode">10054.80</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202205</td><td class="textmode">B0100000283</td><td class="textmode">05/12/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">2700</td><td class="textmode">&nbsp;</td><td class="textmode">486</td>
+		</tr><tr>
+			<td class="textmode">101835001</td><td class="textmode">DE LEON &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202206</td><td class="textmode">B0100000290</td><td class="textmode">06/23/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">8474.58</td><td class="textmode">&nbsp;</td><td class="textmode">1525.42</td>
+		</tr><tr>
+			<td class="textmode">101835001</td><td class="textmode">DE LEON &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202206</td><td class="textmode">B0100000288</td><td class="textmode">06/17/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">55932.20</td><td class="textmode">&nbsp;</td><td class="textmode">10067.80</td>
+		</tr><tr>
+			<td class="textmode">123002564</td><td class="textmode">COPIADORAS EL MUNDO SRL</td><td class="textmode">2022</td><td class="textmode">202206</td><td class="textmode">B0100000287</td><td class="textmode">06/14/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">12702.07</td><td class="textmode">&nbsp;</td><td class="textmode">2286.37</td>
+		</tr><tr>
+			<td class="textmode">131419224</td><td class="textmode">MERCEDES IMPRIME MEIMPRIME SRL</td><td class="textmode">2022</td><td class="textmode">202206</td><td class="textmode">B0100000289</td><td class="textmode">06/22/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">7800</td><td class="textmode">&nbsp;</td><td class="textmode">1404</td>
+		</tr><tr>
+			<td class="textmode">123001835</td><td class="textmode">ALUMINIO CARIBE S R L</td><td class="textmode">2022</td><td class="textmode">202207</td><td class="textmode">B0100000293</td><td class="textmode">07/28/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">18200</td><td class="textmode">&nbsp;</td><td class="textmode">3276</td>
+		</tr><tr>
+			<td class="textmode">131828132</td><td class="textmode">DISTRIBUIDORA HUED SRL</td><td class="textmode">2022</td><td class="textmode">202207</td><td class="textmode">B0100000295</td><td class="textmode">07/27/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">33390</td><td class="textmode">&nbsp;</td><td class="textmode">6010.20</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202208</td><td class="textmode">B0100000295</td><td class="textmode">08/25/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">10650</td><td class="textmode">&nbsp;</td><td class="textmode">1917</td>
+		</tr><tr>
+			<td class="textmode">130413772</td><td class="textmode">TONER DEPOT MULTISERVICIOS EORG SRL</td><td class="textmode">2022</td><td class="textmode">202208</td><td class="textmode">B0100000291</td><td class="textmode">08/11/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">7200</td><td class="textmode">0</td><td class="textmode">1296</td>
+		</tr><tr>
+			<td class="textmode">101028505</td><td class="textmode">CENTRO COMERCIAL SANTO DOMINGO SRL</td><td class="textmode">2022</td><td class="textmode">202208</td><td class="textmode">B0100000294</td><td class="textmode">08/11/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">9300</td><td class="textmode">1674</td><td class="textmode">1674</td>
+		</tr><tr>
+			<td class="textmode">130043851</td><td class="textmode">EMPOWER HR SRL</td><td class="textmode">2022</td><td class="textmode">202209</td><td class="textmode">B0100000298</td><td class="textmode">09/30/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">4</td><td class="textmode">4300</td><td class="textmode">0</td><td class="textmode">774</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202209</td><td class="textmode">B0100000296</td><td class="textmode">09/05/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">11300</td><td class="textmode">&nbsp;</td><td class="textmode">2034</td>
+		</tr><tr>
+			<td class="textmode">131205275</td><td class="textmode">F F SOLIMAN COPIADORAS SRL</td><td class="textmode">2022</td><td class="textmode">202209</td><td class="textmode">B0100000297</td><td class="textmode">09/20/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">18644.07</td><td class="textmode">&nbsp;</td><td class="textmode">3355.93</td>
+		</tr><tr>
+			<td class="textmode">101835001</td><td class="textmode">DE LEON &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202210</td><td class="textmode">B0100000299</td><td class="textmode">10/05/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">5000</td><td class="textmode">&nbsp;</td><td class="textmode">900</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202210</td><td class="textmode">B0100000300</td><td class="textmode">10/07/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">25000</td><td class="textmode">&nbsp;</td><td class="textmode">4500</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2022</td><td class="textmode">202210</td><td class="textmode">B0100000302</td><td class="textmode">10/26/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">12000</td><td class="textmode">&nbsp;</td><td class="textmode">2160</td>
+		</tr><tr>
+			<td class="textmode">130043851</td><td class="textmode">EMPOWER HR SRL</td><td class="textmode">2022</td><td class="textmode">202210</td><td class="textmode">B0100000301</td><td class="textmode">10/07/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">4</td><td class="textmode">5200</td><td class="textmode">0</td><td class="textmode">936</td>
+		</tr><tr>
+			<td class="textmode">101028505</td><td class="textmode">CENTRO COMERCIAL SANTO DOMINGO SRL</td><td class="textmode">2022</td><td class="textmode">202211</td><td class="textmode">B0100000304</td><td class="textmode">11/01/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">31900</td><td class="textmode">5742</td><td class="textmode">5742</td>
+		</tr><tr>
+			<td class="textmode">130353255</td><td class="textmode">PAPA TONER SRL</td><td class="textmode">2022</td><td class="textmode">202211</td><td class="textmode">B0100000305</td><td class="textmode">11/10/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">3000</td><td class="textmode">540</td><td class="textmode">540</td>
+		</tr><tr>
+			<td class="textmode">101835001</td><td class="textmode">DE LEON &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202212</td><td class="textmode">B0100000307</td><td class="textmode">12/28/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">42000</td><td class="textmode">&nbsp;</td><td class="textmode">7560</td>
+		</tr><tr>
+			<td class="textmode">131205275</td><td class="textmode">F F SOLIMAN COPIADORAS SRL</td><td class="textmode">2022</td><td class="textmode">202212</td><td class="textmode">B0100000292</td><td class="textmode">12/20/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">350000</td><td class="textmode">&nbsp;</td><td class="textmode">63000</td>
+		</tr><tr>
+			<td class="textmode">130308314</td><td class="textmode">HM &amp; ASOCIADOS SRL</td><td class="textmode">2022</td><td class="textmode">202212</td><td class="textmode">B0100000306</td><td class="textmode">12/02/2022</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">4</td><td class="textmode">13000</td><td class="textmode">&nbsp;</td><td class="textmode">2340</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,37 @@
+<style> .textmode{mso-number-format:\@;}</style><div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr style="color:White;background-color:#5EB645;">
+			<th scope="col">RNC_CEDULA_NCF</th><th scope="col">NOMBRE</th><th scope="col">ANOFISCAL</th><th scope="col">PERIODO</th><th scope="col">NUMERO_NCF</th><th scope="col">FECHA_COMPROBANTE</th><th scope="col">TIPO_NCF</th><th scope="col">TIPO_COSTO_GASTO</th><th scope="col">MONTO_FACTURADO</th><th scope="col">ITBIS_RETENIDO</th><th scope="col">ITBIS_FACTURADO</th>
+		</tr><tr>
+			<td class="textmode">101835001</td><td class="textmode">DE LEON &amp; ASOCIADOS SRL</td><td class="textmode">2023</td><td class="textmode">202301</td><td class="textmode">B0100000303</td><td class="textmode">01/05/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">22600</td><td class="textmode">&nbsp;</td><td class="textmode">4068</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2023</td><td class="textmode">202301</td><td class="textmode">B0100000267</td><td class="textmode">01/21/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">57000</td><td class="textmode">&nbsp;</td><td class="textmode">10260</td>
+		</tr><tr>
+			<td class="textmode">130043851</td><td class="textmode">EMPOWER HR SRL</td><td class="textmode">2023</td><td class="textmode">202302</td><td class="textmode">B0100000271</td><td class="textmode">02/02/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">4</td><td class="textmode">5200</td><td class="textmode">0</td><td class="textmode">936</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2023</td><td class="textmode">202302</td><td class="textmode">B0100000275</td><td class="textmode">02/08/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">15000</td><td class="textmode">&nbsp;</td><td class="textmode">2700</td>
+		</tr><tr>
+			<td class="textmode">131450911</td><td class="textmode">RODBALL SERVICES SRL</td><td class="textmode">2023</td><td class="textmode">202303</td><td class="textmode">B0100000278</td><td class="textmode">03/13/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">4</td><td class="textmode">5000</td><td class="textmode">&nbsp;</td><td class="textmode">900</td>
+		</tr><tr>
+			<td class="textmode">130308314</td><td class="textmode">HM &amp; ASOCIADOS SRL</td><td class="textmode">2023</td><td class="textmode">202303</td><td class="textmode">B0100000281</td><td class="textmode">03/28/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">9000</td><td class="textmode">0</td><td class="textmode">1620</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2023</td><td class="textmode">202303</td><td class="textmode">B0100000280</td><td class="textmode">03/15/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">21000</td><td class="textmode">&nbsp;</td><td class="textmode">3780</td>
+		</tr><tr>
+			<td class="textmode">101028505</td><td class="textmode">CENTRO COMERCIAL SANTO DOMINGO SRL</td><td class="textmode">2023</td><td class="textmode">202304</td><td class="textmode">B0100000305</td><td class="textmode">04/21/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">12300</td><td class="textmode">2214</td><td class="textmode">2214</td>
+		</tr><tr>
+			<td class="textmode">131450911</td><td class="textmode">RODBALL SERVICES SRL</td><td class="textmode">2023</td><td class="textmode">202304</td><td class="textmode">B0100000285</td><td class="textmode">04/11/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">4</td><td class="textmode">4300</td><td class="textmode">&nbsp;</td><td class="textmode">774</td>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2023</td><td class="textmode">202306</td><td class="textmode">B0100000249</td><td class="textmode">06/02/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">41700</td><td class="textmode">&nbsp;</td><td class="textmode">7506</td>
+		</tr><tr>
+			<td class="textmode">101568933</td><td class="textmode">PLASTICOS MITZUTAMA SRL</td><td class="textmode">2023</td><td class="textmode">202306</td><td class="textmode">B0100000306</td><td class="textmode">06/20/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">10</td><td class="textmode">18000</td><td class="textmode">&nbsp;</td><td class="textmode">3240</td>
+		</tr><tr>
+			<td class="textmode">101868491</td><td class="textmode">SOLUCIONES DE OFICINA DIAZ SRL</td><td class="textmode">2023</td><td class="textmode">202308</td><td class="textmode">B0100000278</td><td class="textmode">08/03/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">6500</td><td class="textmode">0</td><td class="textmode">1170</td>
+		</tr><tr>
+			<td class="textmode">101028505</td><td class="textmode">CENTRO COMERCIAL SANTO DOMINGO SRL</td><td class="textmode">2023</td><td class="textmode">202308</td><td class="textmode">B0100000306</td><td class="textmode">08/14/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">3500</td><td class="textmode">630</td><td class="textmode">630</td>
+		</tr><tr>
+			<td class="textmode">101835001</td><td class="textmode">DE LEON &amp; ASOCIADOS SRL</td><td class="textmode">2023</td><td class="textmode">202308</td><td class="textmode">B0100000271</td><td class="textmode">08/18/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">10000</td><td class="textmode">&nbsp;</td><td class="textmode">1800</td>
+		</tr><tr>
+			<td class="textmode">430245412</td><td class="textmode">UNBOUND SANTO DOMINGO</td><td class="textmode">2023</td><td class="textmode">202310</td><td class="textmode">B0100000296</td><td class="textmode">10/06/2023</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">2</td><td class="textmode">7033.90</td><td class="textmode">&nbsp;</td><td class="textmode">1266.10</td>
+		</tr>
+	</table>
+</div>

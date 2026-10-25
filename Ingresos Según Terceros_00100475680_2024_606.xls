@@ -1,0 +1,9 @@
+<style> .textmode{mso-number-format:\@;}</style><div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr style="color:White;background-color:#5EB645;">
+			<th scope="col">RNC_CEDULA_NCF</th><th scope="col">NOMBRE</th><th scope="col">ANOFISCAL</th><th scope="col">PERIODO</th><th scope="col">NUMERO_NCF</th><th scope="col">FECHA_COMPROBANTE</th><th scope="col">TIPO_NCF</th><th scope="col">TIPO_COSTO_GASTO</th><th scope="col">MONTO_FACTURADO</th><th scope="col">ITBIS_RETENIDO</th><th scope="col">ITBIS_FACTURADO</th>
+		</tr><tr>
+			<td class="textmode">101103434</td><td class="textmode">AMERICAN BUSINESS MACHINE SRL</td><td class="textmode">2024</td><td class="textmode">202401</td><td class="textmode">B0100000303</td><td class="textmode">01/30/2024</td><td class="textmode">FACTURA DE CR&#201;DITO FISCAL</td><td class="textmode">9</td><td class="textmode">56000</td><td class="textmode">&nbsp;</td><td class="textmode">10080</td>
+		</tr>
+	</table>
+</div>
