@@ -116,11 +116,31 @@ class UnificadorDGIIApp(QWidget):
         # Concatenar todos los archivos
         df_consolidado = pd.concat(dataframes, ignore_index=True)
 
+        # Limpieza: primero eliminar columnas (B, C, G, H) y luego renombrar
+        df_consolidado = df_consolidado.drop(
+            columns=["NOMBRE", "ANOFISCAL", "TIPO_NCF", "TIPO_COSTO_GASTO"], errors="ignore"
+        )
+        df_consolidado = df_consolidado.rename(columns={
+            "RNC_CEDULA_NCF": "RNC",
+            "NUMERO_NCF": "NCF",
+            "FECHA_COMPROBANTE": "FECHA",
+            "ITBIS_FACTURADO": "ITBIS",
+        })
+
         # Guardar archivo consolidado
         output_path = os.path.join(FOLDER_PATH, OUTPUT_FILE_NAME)
         try:
             with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
                 df_consolidado.to_excel(writer, index=False, sheet_name="RESUMEN_TERCEROS")
+
+                # Formato numérico en MONTO_FACTURADO, ITBIS_RETENIDO e ITBIS
+                ws = writer.sheets["RESUMEN_TERCEROS"]
+                columnas_numericas = ["MONTO_FACTURADO", "ITBIS_RETENIDO", "ITBIS"]
+                for col_idx, nombre in enumerate(df_consolidado.columns, 1):
+                    if nombre in columnas_numericas:
+                        for fila in range(2, ws.max_row + 1):
+                            ws.cell(row=fila, column=col_idx).number_format = "#,##0.00"
+                        ws.column_dimensions[ws.cell(row=1, column=col_idx).column_letter].width = 18
 
             self.log(f"\n🎉 ¡Proceso completado exitosamente!")
             self.log(f"📊 Total de registros consolidados: {len(df_consolidado)}")
