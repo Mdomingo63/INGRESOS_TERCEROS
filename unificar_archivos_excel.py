@@ -25,8 +25,8 @@ class UnificadorDGIIApp(QWidget):
 
         # Título
         title = QLabel("Unificador de Ingresos Según Terceros (DGII)")
-        title.setFont(QFont("Segoe UI", 14, QFont.Bold))
-        title.setAlignment(Qt.AlignCenter)
+        title.setFont(QFont("Segoe UI", 14, QFont.Weight.Bold))
+        title.setAlignment(Qt.AlignmentFlag.AlignCenter)
         layout.addWidget(title)
 
         # Ruta
@@ -36,7 +36,7 @@ class UnificadorDGIIApp(QWidget):
 
         # Botón de Procesar
         self.btn_run = QPushButton("Unificar Archivos de Excel")
-        self.btn_run.setFont(QFont("Segoe UI", 11, QFont.Bold))
+        self.btn_run.setFont(QFont("Segoe UI", 11, QFont.Weight.Bold))
         self.btn_run.setStyleSheet("""
             QPushButton {
                 background-color: #27ae60;
